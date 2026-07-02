@@ -128,17 +128,16 @@ Using **Power Query**, **DAX**, and an optimized **data model**, the dashboard t
 ```text
 OLA-Ride-Analytics/
 │
-├── Dashboard.pbix
-├── Dataset.xlsx
+├── ola project updated.pbix
 ├── README.md
 │
 └── Images/
-    ├── dashboard1.png
-    ├── dashboard2.png
-    ├── dashboard3.png
-    ├── dashboard4.png
-    ├── dashboard5.png
-    └── dashboard.gif
+    ├── overall.jpeg
+    ├── Revenue.png
+    ├── vehicles type.png
+    ├── rating.png
+    ├── cancellation.png
+    
 ```
 
 ---
