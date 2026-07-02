@@ -147,7 +147,7 @@ OLA-Ride-Analytics/
 
 <p align="center">
 
-<img src="Images/dashboard1.png" width="48%">
+<img src="O=overall.jpeg" width="48%">
 
 <img src="Images/dashboard2.png" width="48%">
 
