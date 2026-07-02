@@ -3,105 +3,182 @@
 </h1>
 
 <p align="center">
-Interactive Business Intelligence Dashboard built using <b>Power BI</b>
+<b>Interactive Business Intelligence Dashboard built using Power BI</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Power+BI+Dashboard;Data+Analytics+Project;Business+Intelligence;Interactive+Visualizations;DAX+%7C+Power+Query+%7C+Data+Modeling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Power+BI+Dashboard;100K%2B+OLA+Ride+Bookings+Analyzed;Business+Intelligence+Project;Interactive+Data+Visualization;DAX+%7C+Power+Query+%7C+Data+Modeling" />
 </p>
 
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-success?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-success?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/abhi03985/powerbi_dashboard?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/abhi03985/powerbi_dashboard?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Project Overview
 
-An interactive **Power BI Dashboard** developed to analyze **100K+ OLA ride bookings**, helping uncover business insights related to bookings, revenue, cancellations, vehicle performance, and customer satisfaction.
+This **Power BI Business Intelligence Dashboard** analyzes **100,000+ OLA ride bookings** to uncover valuable insights into ride demand, booking trends, revenue, cancellations, customer satisfaction, and vehicle performance.
+
+Using **Power Query**, **DAX**, and an optimized **data model**, the dashboard transforms raw ride data into interactive visualizations that help stakeholders monitor KPIs, identify operational bottlenecks, compare vehicle categories, and make data-driven business decisions.
 
 ---
 
-## 🎥 Dashboard Walkthrough
-
-> **Add your dashboard GIF here**
+# 🖥 Dashboard Preview
 
 <p align="center">
-<img src="images/ola-dashboard.gif" width="900">
+<img src="Images/dashboard.gif" width="900">
+</p>
+
+> Replace `dashboard.gif` with your screen recording GIF.
+
+---
+
+# 📊 Dashboard Pages
+
+| Dashboard | Description |
+|-----------|-------------|
+| 📈 Overall Analysis | Executive summary of business KPIs |
+| 🚖 Vehicle Analysis | Vehicle-wise bookings & revenue |
+| 💰 Revenue Dashboard | Revenue, booking value & trends |
+| ❌ Cancellation Analysis | Customer & Driver cancellation insights |
+| ⭐ Ratings Dashboard | Customer & Driver satisfaction |
+
+---
+
+# 📈 Key KPIs
+
+<p align="center">
+
+| KPI | Description |
+|------|-------------|
+| 📦 Total Bookings | Overall ride requests |
+| ✅ Successful Rides | Completed bookings |
+| ❌ Cancelled Rides | Customer & Driver cancellations |
+| 💰 Revenue | Total booking revenue |
+| 🚖 Ride Volume | Daily booking trends |
+| 📍 Distance Travelled | Total KM covered |
+| ⭐ Customer Rating | Average customer satisfaction |
+| 👨‍✈️ Driver Rating | Driver performance score |
+
 </p>
 
 ---
 
-## 📊 Dashboard Pages
+# 💡 Business Insights
 
-✨ Overall Dashboard
+✔ Peak booking hours identified for better driver allocation.
 
-🚗 Vehicle Type Analysis
+✔ Revenue trends reveal high-demand periods.
 
-💰 Revenue Dashboard
+✔ Vehicle-wise comparison highlights top-performing categories.
 
-❌ Cancellation Dashboard
+✔ Cancellation analysis uncovers major customer & driver cancellation reasons.
 
-⭐ Ratings Dashboard
+✔ Customer and Driver ratings help monitor service quality.
 
----
-
-## 🚀 Features
-
-✔ Interactive Navigation
-
-✔ Dynamic Date Filters
-
-✔ KPI Cards
-
-✔ Pie Charts
-
-✔ Line Charts
-
-✔ Revenue Analysis
-
-✔ Cancellation Insights
-
-✔ Vehicle-wise Comparison
-
-✔ Driver & Customer Ratings
+✔ Interactive filters enable detailed city-wise and date-wise analysis.
 
 ---
 
-## 📈 Key Metrics
+# 🚀 Dashboard Features
 
-📌 Total Bookings
+✨ Interactive Navigation
 
-📌 Booking Value
+📅 Dynamic Date Filters
 
-📌 Successful Rides
+📊 KPI Cards
 
-📌 Cancelled Rides
+📈 Trend Analysis
 
-📌 Revenue
+🚖 Vehicle Performance
 
-📌 Ride Volume
+💰 Revenue Monitoring
 
-📌 Customer Ratings
+❌ Cancellation Analysis
 
-📌 Driver Ratings
+⭐ Rating Analysis
 
-📌 Distance Travelled
+🔍 Drill-through Reports
+
+⚡ Cross Filtering
 
 ---
 
-## 🛠 Tools Used
+# 🛠 Tech Stack
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Interactive Visualizations
+| Tool | Usage |
+|------|-------|
+| 📊 Power BI | Dashboard Development |
+| ⚙ Power Query | Data Cleaning & Transformation |
+| 🧮 DAX | Measures & KPIs |
+| 🗂 Data Modeling | Relationship Management |
+| 📈 Visualization | Interactive Charts |
 
---
+---
+
+# 📂 Project Structure
+
+```text
+OLA-Ride-Analytics/
+│
+├── Dashboard.pbix
+├── Dataset.xlsx
+├── README.md
+│
+└── Images/
+    ├── dashboard1.png
+    ├── dashboard2.png
+    ├── dashboard3.png
+    ├── dashboard4.png
+    ├── dashboard5.png
+    └── dashboard.gif
+```
+
+---
+
+# 📷 Dashboard Snapshots
+
+<p align="center">
+
+<img src="Images/dashboard1.png" width="48%">
+
+<img src="Images/dashboard2.png" width="48%">
+
+<img src="Images/dashboard3.png" width="48%">
+
+<img src="Images/dashboard4.png" width="48%">
+
+<img src="Images/dashboard5.png" width="48%">
+
+</p>
+
+---
+
+# 📈 Skills Demonstrated
+
+<p align="center">
+
+📊 Data Visualization • 📈 Business Intelligence • 📉 Data Analysis • ⚡ Power Query • 🧮 DAX • 🗂 Data Modeling • 📌 KPI Design • 📊 Dashboard Development
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ If you found this project useful, consider giving it a ⭐ on GitHub!
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
+
+</p>
