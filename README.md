@@ -161,7 +161,6 @@ OLA-Ride-Analytics/
 
 <h3 align="center">
 
-⭐ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 </h3>
 
