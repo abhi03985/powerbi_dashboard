@@ -142,20 +142,9 @@ OLA-Ride-Analytics/
 ```
 
 ---
-
-# 📷 Dashboard Snapshots
-
 <p align="center">
 
-<img src="O=overall.jpeg" width="48%">
-
-<img src="Images/dashboard2.png" width="48%">
-
-<img src="Images/dashboard3.png" width="48%">
-
-<img src="Images/dashboard4.png" width="48%">
-
-<img src="Images/dashboard5.png" width="48%">
+<img src="https://user-images.githubusercontent.com/74038190/240885531-d7f66e48-54a0-4d8d-9b3d-7c9d2a7c81c3.gif" width="700">
 
 </p>
 
