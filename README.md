@@ -1,171 +1,111 @@
-<h1 align="center">
-🚖 OLA Ride Analytics Dashboard
-</h1>
+<h1 align="center">🚖 OLA Ride Analytics Dashboard</h1>
 
 <p align="center">
 <b>Interactive Business Intelligence Dashboard built using Power BI</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Power+BI+Dashboard;100K%2B+OLA+Ride+Bookings+Analyzed;Business+Intelligence+Project;Interactive+Data+Visualization;DAX+%7C+Power+Query+%7C+Data+Modeling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3200&pause=1200&color=00C853&center=true&vCenter=true&width=950&lines=Power+BI+Dashboard;100K%2B+OLA+Ride+Bookings+Analyzed;Business+Intelligence+Project;Interactive+Data+Visualization;DAX+%7C+Power+Query+%7C+Data+Modeling"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Modeling-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-success?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/abhi03985/powerbi_dashboard?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/abhi03985/powerbi_dashboard?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-16A34A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-This **Power BI Business Intelligence Dashboard** analyzes **100,000+ OLA ride bookings** to uncover valuable insights into ride demand, booking trends, revenue, cancellations, customer satisfaction, and vehicle performance.
-
-Using **Power Query**, **DAX**, and an optimized **data model**, the dashboard transforms raw ride data into interactive visualizations that help stakeholders monitor KPIs, identify operational bottlenecks, compare vehicle categories, and make data-driven business decisions.
+This Power BI dashboard analyzes **100,000+ OLA ride bookings** to uncover insights into booking trends, revenue, ride cancellations, customer satisfaction, and vehicle performance. Using **Power Query**, **DAX**, and **Data Modeling**, raw ride data is transformed into an interactive dashboard for data-driven decision-making.
 
 ---
 
-# 🖥 Dashboard Preview
+## 🖥 Dashboard Preview
 
 <p align="center">
-<img src="Images/dashboard.gif" width="900">
+<img src="overall.jpeg" width="900"/>
 </p>
-
-> Replace `dashboard.gif` with your screen recording GIF.
 
 ---
 
-# 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
 | Dashboard | Description |
 |-----------|-------------|
-| 📈 Overall Analysis | Executive summary of business KPIs |
-| 🚖 Vehicle Analysis | Vehicle-wise bookings & revenue |
-| 💰 Revenue Dashboard | Revenue, booking value & trends |
-| ❌ Cancellation Analysis | Customer & Driver cancellation insights |
-| ⭐ Ratings Dashboard | Customer & Driver satisfaction |
+| 📈 Overall | Business KPIs & Booking Summary |
+| 🚖 Vehicle Type | Vehicle-wise Performance |
+| 💰 Revenue | Revenue & Booking Trends |
+| ❌ Cancellation | Customer & Driver Cancellations |
+| ⭐ Ratings | Customer & Driver Ratings |
 
 ---
 
-# 📈 Key KPIs
-
-<p align="center">
+## 📈 Key KPIs
 
 | KPI | Description |
 |------|-------------|
-| 📦 Total Bookings | Overall ride requests |
-| ✅ Successful Rides | Completed bookings |
-| ❌ Cancelled Rides | Customer & Driver cancellations |
-| 💰 Revenue | Total booking revenue |
-| 🚖 Ride Volume | Daily booking trends |
-| 📍 Distance Travelled | Total KM covered |
-| ⭐ Customer Rating | Average customer satisfaction |
-| 👨‍✈️ Driver Rating | Driver performance score |
-
-</p>
+| 📦 Total Bookings | Overall Ride Requests |
+| ✅ Successful Rides | Completed Trips |
+| 💰 Revenue | Total Revenue Generated |
+| ❌ Cancelled Rides | Customer & Driver Cancellations |
+| 📍 Distance Travelled | Total KM Covered |
+| ⭐ Customer Rating | Average Rating |
+| 👨‍✈️ Driver Rating | Driver Performance |
 
 ---
 
-# 💡 Business Insights
+## 💡 Key Insights
 
-✔ Peak booking hours identified for better driver allocation.
-
-✔ Revenue trends reveal high-demand periods.
-
-✔ Vehicle-wise comparison highlights top-performing categories.
-
-✔ Cancellation analysis uncovers major customer & driver cancellation reasons.
-
-✔ Customer and Driver ratings help monitor service quality.
-
-✔ Interactive filters enable detailed city-wise and date-wise analysis.
+- 📈 Peak booking hours identified for better driver allocation.
+- 💰 Revenue trends highlight high-demand periods.
+- 🚖 Vehicle-wise analysis reveals top-performing categories.
+- ❌ Cancellation reasons help improve operational efficiency.
+- ⭐ Ratings provide insights into customer satisfaction.
+- 🎯 Interactive slicers enable dynamic analysis by date and ride type.
 
 ---
 
-# 🚀 Dashboard Features
+## 🛠 Tech Stack
 
-✨ Interactive Navigation
-
-📅 Dynamic Date Filters
-
-📊 KPI Cards
-
-📈 Trend Analysis
-
-🚖 Vehicle Performance
-
-💰 Revenue Monitoring
-
-❌ Cancellation Analysis
-
-⭐ Rating Analysis
-
-🔍 Drill-through Reports
-
-⚡ Cross Filtering
-
----
-
-# 🛠 Tech Stack
-
-| Tool | Usage |
-|------|-------|
+| Tool | Purpose |
+|------|---------|
 | 📊 Power BI | Dashboard Development |
-| ⚙ Power Query | Data Cleaning & Transformation |
+| ⚙ Power Query | Data Cleaning |
 | 🧮 DAX | Measures & KPIs |
-| 🗂 Data Modeling | Relationship Management |
+| 🗂 Data Modeling | Relationships |
 | 📈 Visualization | Interactive Charts |
 
 ---
 
-# 📂 Project Structure
+## 📂 Repository Structure
 
 ```text
 OLA-Ride-Analytics/
 │
 ├── ola project updated.pbix
-├── README.md
-│
-└── Images/
-    ├── overall.jpeg
-    ├── Revenue.png
-    ├── vehicles type.png
-    ├── rating.png
-    ├── cancellation.png
-    
+├── ola file.csv
+├── overall.jpeg
+├── Revenue.png
+├── vehicle type.png
+├── cancellation.png
+├── rating.png
+└── README.md
 ```
 
 ---
+
+## 🚀 Skills Demonstrated
+
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240885531-d7f66e48-54a0-4d8d-9b3d-7c9d2a7c81c3.gif" width="700">
+📊 Data Visualization • 📈 Business Intelligence • 🧮 DAX • ⚙ Power Query • 🗂 Data Modeling • 📌 KPI Design • 📊 Dashboard Development
 
 </p>
 
----
-
-# 📈 Skills Demonstrated
-
 <p align="center">
-
-📊 Data Visualization • 📈 Business Intelligence • 📉 Data Analysis • ⚡ Power Query • 🧮 DAX • 🗂 Data Modeling • 📌 KPI Design • 📊 Dashboard Development
-
-</p>
-
----
-
-<h3 align="center">
-
-
-</h3>
-
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
-
 </p>
